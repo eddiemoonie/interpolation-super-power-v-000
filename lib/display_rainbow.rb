@@ -5,5 +5,5 @@ end
 
 rainbow = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
-def display_rainbow(rainbow)
+display_rainbow(rainbow)
   
